@@ -1,0 +1,9 @@
+{
+  "port": 5310,
+  "amqp": {
+    "connection": "amqp://admin:admin@195.242.6.140"
+  },
+  "mapParams": {
+    "center": [41.70822143554687, 44.09202367722234]
+  }
+}
