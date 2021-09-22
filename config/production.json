@@ -1,0 +1,5 @@
+{
+  "amqp": {
+    "connection": "amqp://admin:admin@172.17.0.1"
+  }
+}
